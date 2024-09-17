@@ -43,5 +43,5 @@ Project Source
 - Designed and deployed LAN/WAN infrastructure.
 
 🤝 Connect:
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/in/akshaya-thangavelu-3801a1265/)
 - Gmail
