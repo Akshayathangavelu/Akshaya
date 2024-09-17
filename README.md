@@ -44,4 +44,4 @@ Project Source
 
 🤝 Connect:
 - [LinkedIn](https://www.linkedin.com/in/akshaya-thangavelu-3801a1265/)
-- Gmail
+- [Gmail](akshaya170603@gmail.com)
